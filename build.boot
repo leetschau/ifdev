@@ -21,7 +21,7 @@
   "Launch Immediate Feedback Development Environment"
   []
   (comp
-    (serve :dir "target")
+    (serve :dir "target" :port 8000)
     (watch)
     (reload)
     (cljs-repl) ;; before the cljs task
