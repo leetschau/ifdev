@@ -6,6 +6,7 @@
                  [org.clojure/clojurescript "1.9.473"] ;; add CLJS
                  [adzerk/boot-cljs "1.7.228-2"]
                  [pandeiro/boot-http "0.7.6"]
+                 [org.clojars.magomimmo/domina "2.0.0-SNAPSHOT"]
                  [org.clojure/tools.nrepl "0.2.12"]
                  [adzerk/boot-reload "0.5.1"]
                  [adzerk/boot-cljs-repl "0.3.3"]
